@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.40.2](https://github.com/shufo/blade-formatter/compare/v1.40.1...v1.40.2) (2024-02-06)
+
+
+### Miscellaneous
+
+* 🤖 add vitest to dependencies ([e3a0558](https://github.com/shufo/blade-formatter/commit/e3a0558f7fd9fb2f7049b37901aac9abebc8f5e4))
+* 🤖 delete jest configs ([e16b4c7](https://github.com/shufo/blade-formatter/commit/e16b4c7f9dbb786d3d62a47b5bed586349b45bc4))
+* 🤖 remove jest related dependencies ([fd19f6e](https://github.com/shufo/blade-formatter/commit/fd19f6e1bd82d3eebbccc214cb2a2306b80527de))
+
 ## [1.40.1](https://github.com/shufo/blade-formatter/compare/v1.40.0...v1.40.1) (2024-02-06)
 
 
